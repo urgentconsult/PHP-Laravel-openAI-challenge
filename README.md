@@ -1,6 +1,6 @@
 # OpenAI Chatbot
 
-This project is a technical test in PHP and Laravel Lumen that aims to complete and correct code and consume the OpenAI API to generate chatGPT responses.
+This project is a technical test in PHP and Laravel Lumen: complete and correct code and consume the OpenAI API to generate chatGPT responses.
 
 ## Project Structure
 
