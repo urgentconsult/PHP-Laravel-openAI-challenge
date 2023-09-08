@@ -59,7 +59,7 @@ To complete the challenge, follow the steps below:
 2. Install the project dependencies by running the `composer install` command.
 3. Create an OpenAI account and get an API key.
 4. Copy the `.env.example` file to `.env` and add your API key to the `OPENAI_API_KEY` variable.
-5. Run the `php craftsserve` command to start the local server.
+5. Run the `php -S localhost:8000 -t public` command to start the local server.
 6. Open your browser and visit the URL `http://localhost:8000`.
 7. Fill in the code in the `ChatbotController.php` file to make the chatbot work correctly.
 8. Run the tests with the `phpunit` command.

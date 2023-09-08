@@ -1,5 +1,6 @@
 {
-    "name": "openai-chatbot",
+    "name": "openai/chatbot",
+
     "description": "A chatbot project that uses OpenAI's GPT to generate responses",
     "type": "project",
     "license": "MIT",
